@@ -1,0 +1,6 @@
+{
+  "name": "Night Garden - Chapter 1",
+  "description": "An intimate, cinematic opening sequence and playful interactive puzzle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
