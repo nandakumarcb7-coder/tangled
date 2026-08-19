@@ -2,7 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { COPY } from '../lib/sceneConfig';
 import { useReducedMotion } from '../hooks/useReducedMotion';
-import rapunzalBg from '../../assets/.aistudio/rapunzal.jpg';
+import rapunzalBg from '../assets/rapunzal.jpg';
 
 interface WishAcceptedSceneProps {
   onContinue: () => void;

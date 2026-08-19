@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { COPY } from '../lib/sceneConfig';
 import { useReducedMotion } from '../hooks/useReducedMotion';
-import townImg from '../../assets/.aistudio/town.jpeg';
+import townImg from '../assets/town.jpeg';
 
 interface FinalRevealSceneProps {
   placeAnswer?: string;

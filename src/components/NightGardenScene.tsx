@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react';
 import { motion } from 'motion/react';
 import { useReducedMotion } from '../hooks/useReducedMotion';
-import geanImg from '../../assets/.aistudio/gean.jpeg';
+import geanImg from '../assets/gean.jpeg';
 
 interface NightGardenSceneProps {
   dimmed?: boolean;

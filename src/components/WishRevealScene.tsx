@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { COPY } from '../lib/sceneConfig';
 import { useReducedMotion } from '../hooks/useReducedMotion';
-import tangledBg from '../../assets/.aistudio/tangled.jpg';
+import tangledBg from '../assets/tangled.jpg';
 
 interface WishRevealSceneProps {
   onYes: () => void;
