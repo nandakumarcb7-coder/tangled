@@ -325,9 +325,9 @@ export const ScratchCardScene: React.FC<ScratchCardSceneProps> = ({ onComplete }
                 </motion.p>
               </motion.div>
 
-              {/* Subtitle */}
-              <p className="mt-2 text-[10px] font-sans uppercase tracking-[0.3em] text-[#CFC3C8]/70">
-                Secret Key (Mirrored 🪞)
+              {/* Mirror icon */}
+              <p className="mt-2 text-base">
+                🪞
               </p>
             </div>
 
